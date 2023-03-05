@@ -25,3 +25,7 @@ h1 {
   outline-width: thick;
   outline-style: dotted;
 }
+
+* {
+  border: 1em groove;
+}
